@@ -1,0 +1,23 @@
+git add remote origin (link to the remote repository)// for linking remote repository 
+to local repository 
+
+git init //turning a folder project into a repository 
+
+git commit -m "commit message goes here" // commits changes for that they can be pushed
+
+git add . // add a file to the repository for tracking 
+
+
+
+
+Steps.
+
+1. log in create remote project
+2. Copy the link of the remote project
+3. Create a directory on local computer 
+4. cd into newly created directory 
+5. Use "git init" to use make the directory into repository
+6. Use git remote add origin "paste the link in step 2" ... this step links local 
+   repositoryt the online repositoty.
+
+
